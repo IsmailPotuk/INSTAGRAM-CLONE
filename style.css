@@ -1,0 +1,87 @@
+.body{
+    background-color: #fafafa;
+    font-family: sans-serif;
+}
+
+.container{
+    width: 800px;
+    margin: 0px auto;
+    padding-top: 50px;
+    display: flex;
+}
+.img-thumb{
+    width: 100½;
+    margin-right: 10px;
+}
+.gambar{
+    width: 50½;
+
+}
+
+.card-wrapper{
+    width: 50½;
+}
+
+.card{
+    border-style: solid;
+    border-color: #f0f0f0;
+    border-width: 2px;
+    text-align: center;
+    background-color: white;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    margin-left: 10px;
+   
+
+}
+
+.logo{
+    width: 200px;
+        
+}
+.form{
+    margin-top: 30px;
+    margin-bottom: 50px;
+
+    }
+
+.input{
+    max-width: 300px;
+    margin-left: 20px;
+    height:30px;
+    width: 250px;
+    margin-top:10px;
+    border:1px solid gray;
+    border-radius: 5px;
+    padding: 4px;
+    display: flex
+    
+}
+.btn{
+    background-color: #0095f6;
+    border: 0px solid transparent;
+    margin-top: 20px;
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    color:white;
+    
+}
+
+.login-width{
+    color: #01017a;
+    text-decoration: none;
+}
+
+.link-forgot{
+    color: gray;
+    text-decoration: none;
+    font-size: 12;
+    padding-top: 20px;
+
+}
+
+.link-signup{
+    color: #0095f6;
+    text-decoration: none;
+}
